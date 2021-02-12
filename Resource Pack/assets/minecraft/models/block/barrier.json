@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "item/barrier"
+	},
+	"display": {
+		"head": {
+			"translation": [0, -6.5, -7]
+		}
+	}
+}
