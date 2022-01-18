@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "": [
+      {"model": "minecraft:block/white_orb_1", "weight":5},
+      {"model": "minecraft:block/white_orb_2", "weight":5},
+      {"model": "minecraft:block/white_orb_3", "weight":5},
+      {"model": "minecraft:block/white_orb_4", "weight":5},
+      {"model": "minecraft:block/white_orb_5", "weight":5},
+      {"model": "minecraft:block/white_orb_6", "weight":5},
+      {"model": "minecraft:block/white_orb_7", "weight":1}
+         ]
+  }
+}
