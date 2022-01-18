@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/template_glass_pane_side",
+	"textures": {
+		"pane": "block/red_stained_glass2",
+		"edge": "block/red_stained_glass_pane_top"
+	}
+}

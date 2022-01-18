@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/template_glass_pane_noside_alt",
+	"textures": {
+		"pane": "block/red_stained_glass2"
+	}
+}
