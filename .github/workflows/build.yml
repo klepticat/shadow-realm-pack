@@ -15,7 +15,7 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        directory: /Resource Pack
+        directory: '/Resource Pack'
         type: 'zip'
         filename: 'release.zip'
-        path: /releases
+        path: '/releases'
