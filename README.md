@@ -4,9 +4,9 @@ A lightweight resource pack that tweaks vanilla textures for use in the Shadow R
 
 ## Credits
 
-Chilliplier - Models & Textures
-Klepticat - Github Management & Models
-Argentum - Music Discs
+- Chilliplier - Models & Textures
+- Klepticat - Github Management & Models
+- Argentum - Music Disc
 
 ## Screenshots
 
