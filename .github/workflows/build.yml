@@ -16,6 +16,4 @@ jobs:
       uses: thedoctor0/zip-release@master
       with:
         directory: '/Resource Pack'
-        type: 'zip'
-        filename: 'release.zip'
         path: '/releases'
